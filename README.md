@@ -1,6 +1,6 @@
 # Importante:
 
-ejecutar git checkout -- . en su consola, esto es necesario para correr la aplicación. Lo que hace esto es instalar los modulos de node necesarios
+ejecutar "npm install" en su consola, esto es necesario para correr la aplicación. Lo que hace esto es instalar los modulos de node necesarios
 
 ```
     Opciones:
